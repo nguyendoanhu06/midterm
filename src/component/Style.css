@@ -1,0 +1,41 @@
+.home{
+    background-color: #192026;
+}
+.navbar{
+    width: 1274px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+}
+.navbar-title{
+    color: white;
+    font-weight: bold;
+}
+.navbar-menu{
+    color: #868686;
+    display: flex;
+}
+.navbar-search input{
+    background-color: #374151;
+    color: #868686;
+    border: none;
+    border-radius: 37px;
+    width: 375px;
+    padding: 10px;
+
+}
+.explore{}
+.explore-title, .release-title{
+    color: white;
+}
+.explore-content{
+    color: #868686;
+}
+.movie-item{
+    display: flex;
+    
+}
+.movie-item-content img {
+    width: 170px;
+    height: 285px;
+}
